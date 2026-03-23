@@ -47,11 +47,9 @@ The dashboard provides an interactive view of:
 ---
 
 ## 🖼 Dashboard Preview
-(Add screenshot here)
+(![Dashboard](Dashboard.png))
 
 ---
-
-![Dashboard](Dashboard.png)
 
 ## 🚀 Conclusion
 This dashboard enables data-driven decision-making by transforming raw sales data into clear and actionable insights.
